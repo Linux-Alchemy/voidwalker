@@ -32,6 +32,9 @@ pacpkg=(
   "obsidian"
   "postgresql"
   "python-pipx"
+  "inetutil"
+  "tree-sitter-cli"
+  "npm"
   )
 
 # Installing AUR pkgs
